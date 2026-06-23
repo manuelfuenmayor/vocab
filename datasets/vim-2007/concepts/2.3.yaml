@@ -7,11 +7,6 @@ data:
   - concept_id: section-2
     source: urn:oiml:pub:v:2:2007
     ref_type: section
-  related:
-  - type: supersedes
-    ref:
-      source: urn:oiml:pub:v:2:1993
-      id: '2.6'
 status: valid
 id: 7468d203-1d7e-46e6-9983-5b7840f5586a
 schema_version: '3'
