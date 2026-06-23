@@ -47,7 +47,7 @@ data:
       peut pas exprimer quantitativement
   examples:
   - content: a) Sexe d'une personne. b) Couleur d'un spécimen de peinture. c) Couleur
-      d’un spot test en chimie. d) Code de pays ISO à deux lettres. e) Séquence d’acides
+      d'un spot test en chimie. d) Code de pays ISO à deux lettres. e) Séquence d'acides
       aminés dans un polypeptide.
   id: 1.30-fra
   language_code: fra

@@ -34,7 +34,7 @@ data:
   id: 1.4-eng
   language_code: eng
   notes:
-  - content: The subset mentioned in the definition is termed the “set of base quantities”.
+  - content: The subset mentioned in the definition is termed the "set of base quantities".
   - content: Base quantities are referred to as being mutually independent since a
       base quantity cannot be expressed as a product of powers of the other base quantities.
   - content: "'Number of entities' can be regarded as a base quantity in any system
@@ -53,7 +53,7 @@ data:
     type: accepted
   definition:
   - content: grandeur d'un sous-ensemble choisi par convention dans un système de
-      grandeurs donné de façon à ce qu’aucune grandeur du sous-ensemble ne puisse
+      grandeurs donné de façon à ce qu'aucune grandeur du sous-ensemble ne puisse
       être exprimée en fonction des autres
   examples:
   - content: L'ensemble des grandeurs de base du Système international de grandeurs
@@ -64,7 +64,7 @@ data:
   - content: Le sous-ensemble mentionné dans la définition est appelé l'ensemble des
       grandeurs de base.
   - content: Les grandeurs de base sont considérées comme mutuellement indépendantes
-      puisqu’une grandeur de base ne peut être exprimée par un produit de puissances
+      puisqu'une grandeur de base ne peut être exprimée par un produit de puissances
       des autres grandeurs de base.
   - content: On peut considérer la grandeur « nombre d'entités » comme une grandeur
       de base dans tout système de grandeurs.

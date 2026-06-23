@@ -27,7 +27,7 @@ data:
   - content: Measurement uncertainty necessarily increases along the sequence of calibrations.
   - content: The elements of a calibration hierarchy are one or more measurement standards
       and measuring systems operated according to measurement procedures.
-  - content: For this definition, the ‘reference’ can be a definition of a measurement
+  - content: For this definition, the 'reference' can be a definition of a measurement
       unit through its practical realization, or a measurement procedure, or a measurement
       standard.
   - content: A comparison between two measurement standards may be viewed as a calibration

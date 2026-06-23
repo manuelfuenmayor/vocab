@@ -45,10 +45,10 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: unité de mesure qui n’appartient pas à un système d’unités donné
+  - content: unité de mesure qui n'appartient pas à un système d'unités donné
   examples:
-  - content: a) L’électronvolt (environ 1,602 18 × 10-19 J) est une unité d’énergie
-      hors système pour le SI. b) Le jour, l’heure, la minute sont des unités de temps
+  - content: a) L'électronvolt (environ 1,602 18 × 10-19 J) est une unité d'énergie
+      hors système pour le SI. b) Le jour, l'heure, la minute sont des unités de temps
       hors système pour le SI.
   id: 1.15-fra
   language_code: fra

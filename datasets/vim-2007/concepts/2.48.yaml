@@ -54,12 +54,12 @@ data:
   id: 2.48-fra
   language_code: fra
   notes:
-  - content: Une forme générale d’un modèle de mesure est l’équation h(Y , X1 , …
+  - content: Une forme générale d'un modèle de mesure est l'équation h(Y , X1 , …
       , Xn) = 0, où Y, la grandeur de sortie dans le modèle de mesure, est le mesurande,
-      dont la valeur doit être déduite de l’information sur les grandeurs d’entrée
+      dont la valeur doit être déduite de l'information sur les grandeurs d'entrée
       dans le modèle de mesure X1, … , Xn.
   - content: Dans les cas plus complexes où il y a deux grandeurs de sortie ou plus,
-      le modèle de mesure comprend plus d’une seule équation.
+      le modèle de mesure comprend plus d'une seule équation.
   terms:
   - type: expression
     normative_status: preferred

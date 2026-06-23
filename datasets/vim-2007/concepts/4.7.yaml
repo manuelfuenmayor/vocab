@@ -28,7 +28,7 @@ data:
   id: 4.7-eng
   language_code: eng
   notes:
-  - content: In some fields the term is “measuring range” or “measurement range”.
+  - content: In some fields the term is "measuring range" or "measurement range".
   - content: The lower limit of a measuring interval should not be confused with detection
       limit.
   terms:
@@ -57,7 +57,7 @@ data:
   - content: Dans certains domaines, le terme anglais est « measuring range » ou «
       measurement range ». En français, le terme « étendue de mesure » est parfois
       improprement employé.
-  - content: Il convient de ne pas confondre la limite inférieure d’un intervalle
+  - content: Il convient de ne pas confondre la limite inférieure d'un intervalle
       de mesure avec la limite de détection.
   terms:
   - type: expression

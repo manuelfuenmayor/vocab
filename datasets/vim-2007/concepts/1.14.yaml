@@ -54,7 +54,7 @@ data:
   notes:
   - content: Un système d'unités ne peut être cohérent que par rapport à un système
       de grandeurs et aux unités de base adoptées.
-  - content: Pour un système cohérent d’unités, les équations aux valeurs numériques
+  - content: Pour un système cohérent d'unités, les équations aux valeurs numériques
       ont la même forme, y compris les facteurs numériques, que les équations aux
       grandeurs correspondantes.
   terms:

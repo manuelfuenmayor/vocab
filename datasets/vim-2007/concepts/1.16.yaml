@@ -35,11 +35,11 @@ data:
       amount of substance luminous intensity Base unit Name Symbol metre m kilogram
       kg second s ampere A kelvin K mole mol candela cd
   - content: The base units and the coherent derived units of the SI form a coherent
-      set, designated the “set of coherent SI units”.
+      set, designated the "set of coherent SI units".
   - content: For a full description and explanation of the International System of
       Units, see the current edition of the SI brochure published by the Bureau International
       des Poids et Mesures (BIPM) and available on the BIPM web site.
-  - content: In quantity calculus, the quantity ‘number of entities’ is often considered
+  - content: In quantity calculus, the quantity 'number of entities' is often considered
       to be a base quantity, with the base unit one, symbol 1.
   - content: 'The SI prefixes for multiples of units and submultiples of units are:
       Factor Prefix Name yotta zetta exa peta tera giga mega kilo hecto deca Symbol
@@ -69,7 +69,7 @@ data:
   id: 1.16-fra
   language_code: fra
   notes:
-  - content: Le SI est fondé sur les sept grandeurs de base de l’ISQ. Les noms et
+  - content: Le SI est fondé sur les sept grandeurs de base de l'ISQ. Les noms et
       les symboles des unités de base sont donnés dans le tableau suivant. Grandeur
       de base Nom longueur masse temps courant électrique température thermodynamique
       quantité de matière intensité lumineuse Unité de base Nom Symbole mètre m kilogramme
@@ -77,11 +77,11 @@ data:
   - content: Les unités de base et les unités dérivées cohérentes du SI forment un
       ensemble cohérent, appelé « ensemble des unités SI cohérentes ».
   - content: Pour une description et une explication complètes du Système international
-      d’unités, voir la dernière édition de la brochure du SI publiée par le Bureau
+      d'unités, voir la dernière édition de la brochure du SI publiée par le Bureau
       international des poids et mesures (BIPM) et disponible sur le site internet
       du BIPM.
-  - content: En algèbre des grandeurs, la grandeur « nombre d’entités » est souvent
-      considérée comme une grandeur de base, avec l’unité de base un, symbole 1.
+  - content: En algèbre des grandeurs, la grandeur « nombre d'entités » est souvent
+      considérée comme une grandeur de base, avec l'unité de base un, symbole 1.
   - content: 'Les préfixes SI pour les multiples et sous-multiples des unités sont
       : Facteur Nom yotta zetta exa péta téra giga méga kilo hecto déca 10–1 10–2
       10–3 10–6 10–9 10–12 10–15 10–18 10–21 10–24 déci centi milli micro nano pico

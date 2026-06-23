@@ -42,13 +42,13 @@ data:
   notes:
   - content: An indirect measurement involves a combination of direct measurements,
       each of which may be affected by influence quantities.
-  - content: In the GUM, the concept ‘influence quantity’ is defined as in the 2nd
+  - content: In the GUM, the concept 'influence quantity' is defined as in the 2nd
       edition of the VIM, covering not only the quantities affecting the measuring
       system, as in the definition above, but also those quantities that affect the
       quantities actually measured. Also, in the GUM this concept is not restricted
       to direct measurements. 2.53 (3.15) (3.16) correction compensation for an estimated
       systematic effect
-  - content: See GUM, 3.2.3 for explanation of ‘systematic effect’.
+  - content: See GUM, 3.2.3 for explanation of 'systematic effect'.
   - content: The compensation can take different forms, such as an addend or a factor,
       or can be deduced from a table.
   terms:

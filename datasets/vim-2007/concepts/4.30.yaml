@@ -52,20 +52,20 @@ data:
   id: 4.30-fra
   language_code: fra
   notes:
-  - content: Un diagramme d’étalonnage est la bande du plan défini par l’axe des indications
-      et l’axe des résultats de mesure, qui représente la relation entre une indication
+  - content: Un diagramme d'étalonnage est la bande du plan défini par l'axe des indications
+      et l'axe des résultats de mesure, qui représente la relation entre une indication
       et un ensemble de valeurs mesurées. Il correspond à une relation multivoque
-      ; la largeur de la bande pour une indication donnée fournit l’incertitude instrumentale.
-  - content: D’autres expressions de la relation consistent en une courbe d’étalonnage
-      avec les incertitudes de mesure associées, en une table d’étalonnage ou en un
+      ; la largeur de la bande pour une indication donnée fournit l'incertitude instrumentale.
+  - content: D'autres expressions de la relation consistent en une courbe d'étalonnage
+      avec les incertitudes de mesure associées, en une table d'étalonnage ou en un
       ensemble de fonctions.
-  - content: Le concept est relatif à un étalonnage quand l’incertitude instrumentale
+  - content: Le concept est relatif à un étalonnage quand l'incertitude instrumentale
       est grande par rapport aux incertitudes de mesure associées aux valeurs des
       étalons.
   terms:
   - type: expression
     normative_status: preferred
-    designation: diagramme d’étalonnage
+    designation: diagramme d'étalonnage
     grammar_info:
     - gender: m
 date_accepted: '2007-01-01T00:00:00+00:00'

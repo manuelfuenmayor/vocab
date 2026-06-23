@@ -49,7 +49,7 @@ data:
   - content: valeur d'une grandeur servant de base de comparaison pour les valeurs
       de grandeurs de même nature
   examples:
-  - content: ", where the third concept might be ‘off-system measurement unit’. The
+  - content: ', where the third concept might be ''off-system measurement unit''. The
       partitive relation (or part-whole relation) is also hierarchical and connects
       a comprehensive concept to two or more partitive concepts which fitted together
       constitute the parent concept. The diagrams show such relations as a rake or
@@ -69,19 +69,19 @@ data:
       that fully systematic derived terms have not been created, often because metrology
       is an old discipline with a vocabulary evolved by accretion rather than as a
       comprehensive and coherent de novo structure. Figure A.1  Concept diagram for
-      part of Clause 1 around “quantity” Figure A.2  Concept diagram for part of
-      Clause 1 around “measurement unit” Figure A.3  Concept diagram for part of
-      Clause 2 around “measurement” Figure A.4  Concept diagram for part of Clause
-      2 around “quantity value” Figure A.5  Concept diagram for part of Clause 2
-      around “measurement precision” Figure A.6  Concept diagram for part of Clause
-      2 around “measurement uncertainty” Figure A.7  Concept diagram for part of
-      Clause 2 around “calibration” Figure A.8  Concept diagram for part of Clause
-      2 around “measured quantity value” Figure A.9  Concept diagram for part of
-      Clause 2 around “measuring system” Figure A.10  Concept diagram for part of
-      Clause 4 around “metrological properties of a measuring instrument or measuring
-      system” Figure A.11  Concept diagram for part of Clause 4 around “operating
-      condition” Figure A.12  Concept diagram for part of Clause 5 around “measurement
-      standard” (“etalon”)"
+      part of Clause 1 around "quantity" Figure A.2  Concept diagram for part of
+      Clause 1 around "measurement unit" Figure A.3  Concept diagram for part of
+      Clause 2 around "measurement" Figure A.4  Concept diagram for part of Clause
+      2 around "quantity value" Figure A.5  Concept diagram for part of Clause 2
+      around "measurement precision" Figure A.6  Concept diagram for part of Clause
+      2 around "measurement uncertainty" Figure A.7  Concept diagram for part of
+      Clause 2 around "calibration" Figure A.8  Concept diagram for part of Clause
+      2 around "measured quantity value" Figure A.9  Concept diagram for part of
+      Clause 2 around "measuring system" Figure A.10  Concept diagram for part of
+      Clause 4 around "metrological properties of a measuring instrument or measuring
+      system" Figure A.11  Concept diagram for part of Clause 4 around "operating
+      condition" Figure A.12  Concept diagram for part of Clause 5 around "measurement
+      standard" ("etalon")'
   id: 5.18-fra
   language_code: fra
   notes:

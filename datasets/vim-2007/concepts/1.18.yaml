@@ -47,7 +47,7 @@ data:
   - content: unité de mesure obtenue en divisant une unité de mesure donnée par un
       entier supérieur à un
   examples:
-  - content: a) Le millimètre est un sous-multiple décimal du mètre. b) Pour l’angle
+  - content: a) Le millimètre est un sous-multiple décimal du mètre. b) Pour l'angle
       plan, la seconde est un sous-multiple non décimal de la minute
   id: 1.18-fra
   language_code: fra

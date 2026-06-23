@@ -27,13 +27,13 @@ data:
   id: 2.13-eng
   language_code: eng
   notes:
-  - content: The concept ‘measurement accuracy’ is not a quantity and is not given
+  - content: The concept 'measurement accuracy' is not a quantity and is not given
       a numerical quantity value. A measurement is said to be more accurate when it
       offers a smaller measurement error.
-  - content: The term “measurement accuracy” should not be used for measurement trueness
-      and the term measurement precision should not be used for ‘measurement accuracy’
+  - content: The term "measurement accuracy" should not be used for measurement trueness
+      and the term measurement precision should not be used for 'measurement accuracy'
       which, however, is related to both concepts.
-  - content: "‘Measurement accuracy’ is sometimes understood as closeness of agreement
+  - content: "'Measurement accuracy' is sometimes understood as closeness of agreement
       between measured quantity values that are being attributed to the measurand."
   terms:
   - type: expression

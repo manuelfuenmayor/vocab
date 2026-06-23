@@ -38,8 +38,8 @@ data:
     type: accepted
   definition:
   - content: différence entre les indications qui correspondent à une même valeur
-      mesurée, ou entre les valeurs fournies par une mesure matérialisée, lorsqu’une
-      grandeur d’influence prend successivement deux valeurs différentes
+      mesurée, ou entre les valeurs fournies par une mesure matérialisée, lorsqu'une
+      grandeur d'influence prend successivement deux valeurs différentes
   examples: []
   id: 4.22-fra
   language_code: fra
@@ -47,7 +47,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: variation due à une grandeur d’influence
+    designation: variation due à une grandeur d'influence
     grammar_info:
     - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'

@@ -44,7 +44,7 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: fonction de grandeurs, dont la valeur, lorsqu’elle est calculée en utilisant
+  - content: fonction de grandeurs, dont la valeur, lorsqu'elle est calculée en utilisant
       des valeurs connues pour les grandeurs d'entrée dans le modèle de mesure, est
       une valeur mesurée de la grandeur de sortie dans le modèle de mesure
   examples: []
@@ -54,9 +54,9 @@ data:
   - content: Si un modèle de mesure h(Y , X1 , … , Xn) = 0 peut être écrit explicitement
       sous la forme Y = f (X1, … , Xn), où Y est la grandeur de sortie dans le modèle
       de mesure, la fonction f est la fonction de mesure. Plus généralement, f peut
-      symboliser un algorithme qui fournit, pour les valeurs d’entrée x1, … , xn,
+      symboliser un algorithme qui fournit, pour les valeurs d'entrée x1, … , xn,
       une valeur de sortie unique correspondante y = f (x1, … , xn).
-  - content: On utilise aussi une fonction de mesure pour calculer l’incertitude de
+  - content: On utilise aussi une fonction de mesure pour calculer l'incertitude de
       mesure associée à la valeur mesurée de Y.
   terms:
   - type: expression

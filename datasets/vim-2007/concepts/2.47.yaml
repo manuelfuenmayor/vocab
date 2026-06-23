@@ -26,7 +26,7 @@ data:
   language_code: eng
   notes:
   - content: Metrological compatibility of measurement results replaces the traditional
-      concept of ‘staying within the error’, as it represents the criterion for deciding
+      concept of 'staying within the error', as it represents the criterion for deciding
       whether two measurement results refer to the same measurand or not. If in a
       set of measurements of a measurand, thought to be constant, a measurement result
       is not compatible with the others, either the measurement was not correct (e.g.
@@ -66,9 +66,9 @@ data:
       d'un mesurande que l'on pense rester constant, un résultat de mesure n'est pas
       compatible avec les autres, soit le mesurage n'est pas correct (par
   - content: La corrélation entre les mesurages influence la compatibilité de mesure.
-      Si les mesurages sont entièrement décorrélés, l’incertitude-type de leur différence
+      Si les mesurages sont entièrement décorrélés, l'incertitude-type de leur différence
       est égale à la moyenne quadratique de leurs incertitudes-types (racine carrée
-      de la somme des carrés), tandis qu’elle est plus petite pour une covariance
+      de la somme des carrés), tandis qu'elle est plus petite pour une covariance
       positive ou plus grande pour une covariance négative.
   terms:
   - type: expression

@@ -53,8 +53,8 @@ data:
   - date: '2007-01-01T00:00:00+00:00'
     type: accepted
   definition:
-  - content: ensemble d'un nombre et d'une référence constituant l’expression quantitative
-      d’une grandeur
+  - content: ensemble d'un nombre et d'une référence constituant l'expression quantitative
+      d'une grandeur
   examples:
   - content: a) Longueur d'une tige donnée b) Masse d'un corps donné c) Courbure d'un
       arc donné d) Température Celsius d'un spécimen donné e) Impédance électrique

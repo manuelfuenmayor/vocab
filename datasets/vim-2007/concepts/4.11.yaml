@@ -29,7 +29,7 @@ data:
   notes:
   - content: Reference operating conditions specify intervals of values of the measurand
       and of the influence quantities.
-  - content: In IEC 60050-300, item 311-06-02, the term “reference condition” refers
+  - content: In IEC 60050-300, item 311-06-02, the term "reference condition" refers
       to an operating condition under which the specified instrumental measurement
       uncertainty is the smallest possible.
   terms:
@@ -58,7 +58,7 @@ data:
   - content: Les conditions de fonctionnement de référence spécifient des intervalles
       de valeurs du mesurande et des grandeurs d'influence.
   - content: Dans la CEI 60050-300, n° 311-06-02, le terme « condition de référence
-      » désigne une condition de fonctionnement dans laquelle l’incertitude instrumentale
+      » désigne une condition de fonctionnement dans laquelle l'incertitude instrumentale
       spécifiée est la plus petite possible.
   terms:
   - type: expression

@@ -69,19 +69,19 @@ data:
       concentration en quantité de matière est définie par l'équation aux grandeurs
       c = n/V. Le kilomètre par heure et le nœud, donnés comme exemples d'unités dérivées
       en 1.11, ne sont pas des unités dérivées cohérentes dans un tel système.
-  - content: Le centimètre par seconde est l’unité dérivée cohérente de vitesse dans
-      le système d’unités CGS mais n’est pas une unité dérivée cohérente dans le SI.
+  - content: Le centimètre par seconde est l'unité dérivée cohérente de vitesse dans
+      le système d'unités CGS mais n'est pas une unité dérivée cohérente dans le SI.
   id: 1.12-fra
   language_code: fra
   notes:
-  - content: Une puissance d’une unité de base est l’unité munie d’un exposant.
+  - content: Une puissance d'une unité de base est l'unité munie d'un exposant.
   - content: La cohérence ne peut être déterminée que par rapport à un système de
       grandeurs particulier et un ensemble donné d'unités de base.
   - content: Une unité dérivée peut être cohérente par rapport à un système de grandeurs,
       mais non par rapport à un autre.
-  - content: Dans tout système d’unités, l'unité dérivée cohérente de toute grandeur
+  - content: Dans tout système d'unités, l'unité dérivée cohérente de toute grandeur
       dérivée sans dimension est le nombre un, de symbole 1. Le nom et le symbole
-      de l’unité de mesure un sont généralement omis.
+      de l'unité de mesure un sont généralement omis.
   terms:
   - type: expression
     normative_status: preferred

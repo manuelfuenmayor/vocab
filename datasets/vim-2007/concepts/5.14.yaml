@@ -31,18 +31,18 @@ data:
   id: 5.14-eng
   language_code: eng
   notes:
-  - content: "‘Documentation’ is given in the form of a ‘certificate’, see ISO Guide
+  - content: "'Documentation' is given in the form of a 'certificate', see ISO Guide
       31:2000."
   - content: Procedures for the production and certification of certified reference
       materials are given, e.g., in ISO Guides 34 and 35.
-  - content: In this definition, “uncertainty” covers both ‘measurement uncertainty’
-      and ‘uncertainty associated with the value of a nominal property’, such as for
-      identity and sequence. “Traceability” covers both ‘metrological traceability
-      of a quantity value’ and ‘traceability of a nominal property value’.
+  - content: In this definition, "uncertainty" covers both 'measurement uncertainty'
+      and 'uncertainty associated with the value of a nominal property', such as for
+      identity and sequence. "Traceability" covers both 'metrological traceability
+      of a quantity value' and 'traceability of a nominal property value'.
   - content: Specified quantity values of certified reference materials require metrological
       traceability with associated measurement uncertainty (Accred Qual Assur:2006[7]).
   - content: ISO/REMCO has an analogous definition (Accred Qual Assur:2006[7]) but
-      uses the modifiers ‘metrological’ and ‘metrologically’ to refer to both quantity
+      uses the modifiers 'metrological' and 'metrologically' to refer to both quantity
       and nominal property.
   terms:
   - type: expression
@@ -77,10 +77,10 @@ data:
   - content: Des procédures pour la production et la certification de matériaux de
       référence certifiés sont données, par exemple, dans les Guides ISO 34 et 35.
   - content: Dans la définition, le terme « incertitude » peut désigner soit une incertitude
-      de mesure, soit l’incertitude associée à la valeur d’une propriété qualitative,
-      telle que l’identité ou la séquence. Le terme « traçabilité » peut désigner
-      soit la traçabilité métrologique de la valeur d’une grandeur, soit la traçabilité
-      de la valeur d’une propriété qualitative.
+      de mesure, soit l'incertitude associée à la valeur d'une propriété qualitative,
+      telle que l'identité ou la séquence. Le terme « traçabilité » peut désigner
+      soit la traçabilité métrologique de la valeur d'une grandeur, soit la traçabilité
+      de la valeur d'une propriété qualitative.
   - content: Les valeurs de grandeurs spécifiées des matériaux de référence certifiés
       exigent une traçabilité métrologique avec une incertitude de mesure associée
       (voir Accred Qual Assur:2006[7]).

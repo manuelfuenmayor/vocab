@@ -47,11 +47,11 @@ data:
   id: 4.29-fra
   language_code: fra
   notes:
-  - content: L’incertitude de mesure à zéro est associée à une indication nulle ou
-      presque nulle et correspond à l’intervalle dans lequel on ne sait pas si le
-      mesurande est trop petit pour être détecté ou si l'indication de l’instrument
+  - content: L'incertitude de mesure à zéro est associée à une indication nulle ou
+      presque nulle et correspond à l'intervalle dans lequel on ne sait pas si le
+      mesurande est trop petit pour être détecté ou si l'indication de l'instrument
       de mesure est due seulement au bruit.
-  - content: Le concept d’incertitude de mesure à zéro s'applique aussi lorsqu'une
+  - content: Le concept d'incertitude de mesure à zéro s'applique aussi lorsqu'une
       différence est obtenue entre le mesurage d'un spécimen et un blanc.
   terms:
   - type: expression

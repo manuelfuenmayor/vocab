@@ -44,7 +44,7 @@ data:
   - content: Reference materials with or without assigned quantity values can be used
       for measurement precision control whereas only reference materials with assigned
       quantity values can be used for calibration or measurement trueness control.
-  - content: "‘Reference material’ comprises materials embodying quantities as well
+  - content: "'Reference material' comprises materials embodying quantities as well
       as nominal properties."
   - content: A reference material is sometimes incorporated into a specially fabricated
       device.
@@ -57,7 +57,7 @@ data:
   - content: The specifications of a reference material should include its material
       traceability, indicating its origin and processing (Accred Qual Assur:2006[7]).
   - content: ISO/REMCO has an analogous definition (Accred Qual Assur:2006[7]) but
-      uses the term “measurement process” to mean 'examination' (ISO 15189:2007, 3.4),
+      uses the term "measurement process" to mean 'examination' (ISO 15189:2007, 3.4),
       which covers both measurement of a quantity and examination of a nominal property.
   terms:
   - type: expression
@@ -99,17 +99,17 @@ data:
       une incertitude de mesure.
   - content: Des matériaux de référence avec ou sans valeurs assignées peuvent servir
       à contrôler la fidélité de mesure, tandis que seuls des matériaux à valeurs
-      assignées peuvent servir à l’étalonnage ou au contrôle de la justesse de mesure.
+      assignées peuvent servir à l'étalonnage ou au contrôle de la justesse de mesure.
   - content: Les matériaux de référence comprennent des matériaux caractérisés par
       des grandeurs et des matériaux caractérisés par des propriétés qualitatives.
   - content: Un matériau de référence est quelquefois incorporé dans un dispositif
       fabriqué spécialement.
   - content: Certains matériaux de référence ont des valeurs assignées qui sont métrologiquement
-      traçables à une unité de mesure en dehors d’un système d'unités. Ces matériaux
+      traçables à une unité de mesure en dehors d'un système d'unités. Ces matériaux
       comprennent des vaccins auxquels des unités internationales (UI) ont été assignées
       par l'Organisation mondiale de la santé.
   - content: Dans un mesurage donné, un matériau de référence donné ne peut être utilisé
-      que pour l’étalonnage ou pour l’assurance de la qualité.
+      que pour l'étalonnage ou pour l'assurance de la qualité.
   - content: Il convient d'inclure dans les spécifications d'un matériau de référence
       sa traçabilité, qui indique son origine et son traitement (Accred Qual Assur:2006[7]).
   - content: La définition de l'ISO/REMCO est analogue (Accred Qual Assur:2006[7]),

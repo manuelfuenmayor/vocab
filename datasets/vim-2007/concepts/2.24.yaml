@@ -52,8 +52,8 @@ data:
   notes:
   - content: Les différents systèmes de mesure peuvent utiliser des procédures de
       mesure différentes.
-  - content: Il convient qu’une spécification relative aux conditions contienne, dans
-      la mesure du possible, les conditions que l’on fait varier et celles qui restent
+  - content: Il convient qu'une spécification relative aux conditions contienne, dans
+      la mesure du possible, les conditions que l'on fait varier et celles qui restent
       inchangées.
   terms:
   - type: expression

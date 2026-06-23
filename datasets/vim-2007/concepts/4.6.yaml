@@ -32,8 +32,8 @@ data:
   id: 4.6-eng
   language_code: eng
   notes:
-  - content: Note “Nominal quantity value” and “nominal value” are not to be confused
-      with “nominal property value”, see 1.29, Note 2.
+  - content: Note "Nominal quantity value" and "nominal value" are not to be confused
+      with "nominal property value", see 1.29, Note 2.
   terms:
   - type: expression
     normative_status: preferred

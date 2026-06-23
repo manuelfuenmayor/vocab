@@ -40,7 +40,7 @@ data:
   definition:
   - content: expression de la relation entre une indication et la valeur mesurée correspondante
       Note Une courbe d'étalonnage exprime une relation biunivoque qui ne fournit
-      pas un résultat de mesure puisqu’elle ne contient aucune information sur l’incertitude
+      pas un résultat de mesure puisqu'elle ne contient aucune information sur l'incertitude
       de mesure
   examples: []
   id: 4.31-fra
@@ -49,7 +49,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: courbe d’étalonnage
+    designation: courbe d'étalonnage
     grammar_info:
     - gender: f
 date_accepted: '2007-01-01T00:00:00+00:00'

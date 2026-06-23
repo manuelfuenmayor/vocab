@@ -56,7 +56,7 @@ data:
   language_code: fra
   notes:
   - content: La valeur de référence pour une erreur systématique est une valeur vraie,
-      une valeur mesurée d’un étalon dont l'incertitude de mesure est négligeable,
+      une valeur mesurée d'un étalon dont l'incertitude de mesure est négligeable,
       ou une valeur conventionnelle.
   - content: L'erreur systématique et ses causes peuvent être connues ou inconnues.
       On peut appliquer une correction pour compenser une erreur systématique connue.

@@ -46,9 +46,9 @@ data:
   - content: relation d'égalité entre des valeurs numériques, fondée sur une équation
       aux grandeurs donnée et des unités de mesure spécifiées
   examples:
-  - content: a) Pour les grandeurs données dans l’exemple a) de 1.22, {Q1} = ζ {Q2}
+  - content: a) Pour les grandeurs données dans l'exemple a) de 1.22, {Q1} = ζ {Q2}
       {Q3}, où {Q1}, {Q2} et {Q3} représentent respectivement les valeurs numériques
-      de Q1, Q2 et Q3 lorsqu’elles sont exprimées en unités de base ou en unités dérivées
+      de Q1, Q2 et Q3 lorsqu'elles sont exprimées en unités de base ou en unités dérivées
       cohérentes ou les deux. b) Pour l'équation de l'énergie cinétique d'une particule,
       T = (1/2) mv2, si m = 2 kg et v = 3 m/s, alors {T} = (1/2) ×2 × 32 est une équation
       aux valeurs numériques donnant la valeur numérique 9 pour T en joules.

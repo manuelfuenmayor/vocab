@@ -48,17 +48,17 @@ data:
     type: accepted
   definition:
   - content: grandeur qui doit être mesurée, ou grandeur dont la valeur peut être
-      obtenue autrement, pour calculer une valeur mesurée d’un mesurande
+      obtenue autrement, pour calculer une valeur mesurée d'un mesurande
   examples:
   - content: Lorsque le mesurande est la longueur d'une tige d'acier à une température
       spécifiée, la température réelle, la longueur à la température réelle et le
-      coefficient de dilatation thermique linéique de la tige sont des grandeurs d’entrée
+      coefficient de dilatation thermique linéique de la tige sont des grandeurs d'entrée
       dans un modèle de mesure.
   id: 2.50-fra
   language_code: fra
   notes:
   - content: Une grandeur d'entrée dans un modèle de mesure est souvent une grandeur
-      de sortie d’un système de mesure.
+      de sortie d'un système de mesure.
   - content: Les indications, les corrections et les grandeurs d'influence sont des
       grandeurs d'entrée dans un modèle de mesure.
   terms:
